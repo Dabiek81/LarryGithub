@@ -3,4 +3,4 @@
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
 
-**Alberto Casero**, Git & Larry Plotter lover
+**Daniel Salcedo**, Git & Larry Plotter lover
